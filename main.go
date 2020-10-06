@@ -7,8 +7,8 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/leaanthony/mewn"
-	"github.com/tobolkin8/todo/pkg/config"
 	"github.com/wailsapp/wails"
+	"github.com/tobolkin8/todo/pkg/config"
 )
 
 func init() {
@@ -29,18 +29,18 @@ func helloFromClient(c *Client, data interface{}) {
 func main() {
 
 	////--------------------------------CONFIG---------------------------------------////
-	conf := config.New()
+	/* 	conf := config.New()
 
-	// Print out environment variables
-	fmt.Println(conf.GitHub.Username)
-	fmt.Println(conf.GitHub.APIKey)
-	fmt.Println(conf.DebugMode)
-	fmt.Println(conf.MaxUsers)
+	   	// Print out environment variables
+	   	fmt.Println(conf.GitHub.Username)
+	   	fmt.Println(conf.GitHub.APIKey)
+	   	fmt.Println(conf.DebugMode)
+	   	fmt.Println(conf.MaxUsers)
 
-	// Print out each role
-	for _, role := range conf.UserRoles {
-		fmt.Println(role)
-	}
+	   	// Print out each role
+	   	for _, role := range conf.UserRoles {
+	   		fmt.Println(role)
+	   	} */
 	////--------------------------------END CONFIG---------------------------------------////
 
 	////--------------------------------DATABASE---------------------------------------////
