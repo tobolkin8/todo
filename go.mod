@@ -8,5 +8,4 @@ require (
 	github.com/leaanthony/mewn v0.10.7
 	github.com/wailsapp/wails v1.8.0
 	go.mongodb.org/mongo-driver v1.4.1
-    github.com/tobolkin8/todo/pkg/config v0.0.0
 )
