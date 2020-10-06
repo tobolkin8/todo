@@ -1,0 +1,22 @@
+{
+ "name": "desktop_todo",
+ "description": "Enter your project description",
+ "author": {
+  "name": "nina",
+  "email": "tobolkin8@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "desktop_todo",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run start"
+ },
+ "WailsVersion": "",
+ "CrossCompile": false,
+ "Platform": "",
+ "Architecture": "",
+ "LdFlags": ""
+}
