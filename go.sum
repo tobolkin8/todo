@@ -126,6 +126,7 @@ github.com/syossan27/tebata v0.0.0-20180602121909-b283fe4bc5ba h1:2DHfQOxcpWdGf5
 github.com/syossan27/tebata v0.0.0-20180602121909-b283fe4bc5ba/go.mod h1:iLnlXG2Pakcii2CU0cbY07DRCSvpWNa7nFxtevhOChk=
 github.com/tidwall/pretty v1.0.0 h1:HsD+QiTn7sK6flMKIvNmpqz1qrpP3Ps6jOKIKMooyg4=
 github.com/tidwall/pretty v1.0.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
+github.com/tobolkin8/todo v0.0.0-20201006173555-15cae3ee42b3 h1:wb5TM6E+lKS1ODwdBIkudGZRlaCom7CIs/sxWAvrOWQ=
 github.com/wailsapp/wails v1.8.0 h1:gnQhpwoGM8s2GD5PZrgMKU1PO3pQ9cdKKJgwtkNz2f4=
 github.com/wailsapp/wails v1.8.0/go.mod h1:XFZunea+USOCMMgBlz0A0JHLL3oWrRhnOl4baZlRpxo=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c h1:u40Z8hqBAAQyv+vATcGgV0YCnDjqSL7/q/JyPhhJSPk=
